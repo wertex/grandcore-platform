@@ -50,7 +50,7 @@
 
 <p><a href="https://grandcore.org/about/">Про фонд GrandCore</a> - Подробнее о философии фонда, вопросах финансирования и управления, работе над проектами и других его сервисах.</p>
 
-<p><a href="https://grandcore.org/mvp">MVP платформы</a> - первая, разрабатываемая mvp вервия платформы на базе фреймворка Laravel. <span class="d-block p-2 bg-danger text-white"><b>Визуализация:</b> <a href="https://www.mindomo.com/mindmap/83798b37459848089f13a01522e84907" class="text-white"><u>проект в виде схемы</u></a>, <a  class="text-white" href="https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=0%3A1"><u>дизайн экранов</u></a>
+<p><a target="_blank" href="https://grandcore.org/mvp">MVP платформы</a> - первая, разрабатываемая mvp вервия платформы на базе фреймворка Laravel. <span class="d-block p-2 bg-danger text-white"><b>Визуализация:</b> <a  target="_blank" href="https://www.mindomo.com/mindmap/83798b37459848089f13a01522e84907" class="text-white"><u>проект в виде схемы</u></a>, <a  class="text-white" href="https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=0%3A1"><u>дизайн экранов</u></a>
 </span>
 </p>
 

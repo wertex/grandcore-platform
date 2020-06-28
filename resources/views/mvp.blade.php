@@ -13,8 +13,8 @@
 
 <span class="d-block p-2 bg-danger text-white"><h3>Визуализация</h3>
 <ul>
-	<li><a href="https://www.mindomo.com/mindmap/83798b37459848089f13a01522e84907" class="text-white"><b>Проект в виде схемы</b></a></li>
-	<li><a  class="text-white" href="https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=0%3A1"><b>Дизайн Экранов</b></a></li>
+	<li><a  target="_blank" href="https://www.mindomo.com/mindmap/83798b37459848089f13a01522e84907" class="text-white"><b><u>Проект в виде схемы</u></b></a></li>
+	<li><a  target="_blank" class="text-white" href="https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=0%3A1"><b><u>Дизайн Экранов</u></b></a></li>
 </ul>
 </span>
 
