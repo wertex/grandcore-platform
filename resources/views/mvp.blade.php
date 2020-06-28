@@ -11,6 +11,13 @@
 
 <p><em>На основе фреймворка Laravel</em></p>
 
+<span class="d-block p-2 bg-danger text-white"><h3>Визуализация</h3>
+<ul>
+	<li><a href="https://www.mindomo.com/mindmap/83798b37459848089f13a01522e84907" class="text-white"><b>Проект в виде схемы</b></a></li>
+	<li><a  class="text-white" href="https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=0%3A1"><b>Дизайн Экранов</b></a></li>
+</ul>
+</span>
+
 <h2>Цели проекта и требования к платформе</h2>
 
 <p>Платформа создается, как первый опыт разработки универсального инструмента для коллективной работы над всеми этапами открытых проектами в рамках фонда GrandCore. </p>

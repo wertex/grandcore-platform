@@ -56,9 +56,9 @@
 </style>
   </head>
   <body>
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top text-light">
     <a class="navbar-brand" href="{{ url('/') }}">
- <img src="{{ asset('favicon.png') }}" alt="" style="width: 2rem;"> &nbsp; GrandCore</a>
+ <img src="{{ asset('favicon.png') }}" alt="" style="width: 2rem;"> &nbsp; GrandCore</a></p>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
      <span class="navbar-toggler-icon"></span>
     </button>
@@ -149,12 +149,42 @@
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
+
+
+<div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+
+      <!-- Modal content-->
+      <div class="modal-content">
+        
+        <div class="modal-body">
+ <p>Привет! Пиши мне в Telegram, если хочешь в команду или просто есть мысли по проекту - <a href="https://t.me/i0zgMRV49fX">@i0zgMRV49fX</a>
+</p>
+<p>
+  
+  Если не очень со временем, подпишись, пожалуйста, на новости <a href="https://t.me/grandcore">@grandcore</a> и пулреквесты в <a href="https://github.com/grandcore/grandcore-platform">GitHub</a>, расскажи друзьям. Мне тяжело одному тянуть всё.</p>
+<p>Жду сооснователей ;=)</p>
+        </div>
+        <div class="modal-footer">
+
+          <button type="button" class="btn btn-default" data-dismiss="modal">Окей</button>
+        </div>
+      </div>
+
+    </div>
+</div>
+
+
+
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 
 <script>
-
+$(window).on('load',function(){
+  $('#myModal').modal('show');
+});
 </script>
 
 
