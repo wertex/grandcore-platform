@@ -15,6 +15,9 @@
 <ul>
 	<li><a  target="_blank" href="https://www.mindomo.com/mindmap/83798b37459848089f13a01522e84907" class="text-white"><b><u>Проект в виде схемы</u></b></a></li>
 	<li><a  target="_blank" class="text-white" href="https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=0%3A1"><b><u>Дизайн Экранов</u></b></a></li>
+	<li>
+		<a target="_blank" class="text-white" href="https://github.com/grandcore/grandcore-platform"><u><b>Git-репозиторий</b></u></a>
+	</li>
 </ul>
 </span>
 
